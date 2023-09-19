@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktrzorion&label=Profile%20views&color=0e75b6&style=flat" alt="ktrzorion" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktrzorion" alt="ktrzorion" /></a> </p>
 
 - 🔭 I’m currently working on **Intelligent Surveillance System For Violence Detection**
 
@@ -21,6 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11gJET8izcbISMryFKPnMNhg48WBVEtTF/view?usp=sharing](https://drive.google.com/file/d/11gJET8izcbISMryFKPnMNhg48WBVEtTF/view?usp=sharing)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktrzorion" alt="ktrzorion" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ktr_zorion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ktr_zorion" height="30" width="40" /></a>
