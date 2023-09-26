@@ -45,8 +45,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <hr>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktrzorion&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktrzorion&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ktrzorion" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktrzorion&show_icons=true&theme=dracula&locale=en" alt="ktrzorion" /></p>
