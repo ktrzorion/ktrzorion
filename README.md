@@ -18,12 +18,14 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11gJET8izcbISMryFKPnMNhg48WBVEtTF/view?usp=sharing](https://drive.google.com/file/d/11gJET8izcbISMryFKPnMNhg48WBVEtTF/view?usp=sharing)
 <hr>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ktrzorion&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
+<hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ktrzorion" alt="ktrzorion" style="margin: 10px;">
   </a>
 </p>
-
 
 <hr>
 <h3 align="left">Connect with me:</h3>
